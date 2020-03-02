@@ -992,5 +992,30 @@ td {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
       }
     
-      <iframe src="https://www.lovestu.com/api/project/cnmapyinqing/obj.php" height="500" frameborder="no" border="0" width="100%"> </iframe>
+      <!-- 灯笼 1 -->
+<div class="deng-box">
+    <div class="deng">
+        <div class="xian"></div>
+        <div class="deng-a">
+            <div class="deng-b"><div class="deng-t">春节</div></div>
+        </div>
+        <div class="shui shui-a"></div>
+        <div class="shui shui-b"></div>
+        <div class="shui shui-c"></div>
+    </div>
+</div>
+
+<!-- 灯笼 2 -->
+<div class="deng-box1">
+    <div class="deng">
+        <div class="xian"></div>
+        <div class="deng-a">
+            <div class="deng-b"><div class="deng-t">快乐</div></div>
+        </div>
+        <div class="shui shui-a"></div>
+        <div class="shui shui-b"></div>
+        <div class="shui shui-c"></div>
+    </div>
+</div>
+<body id="body" class="fix-padding">
     
