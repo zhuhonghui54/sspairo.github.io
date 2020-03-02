@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhuhonghui54.github.io</id>
     <title>Pan</title>
-    <updated>2020-03-02T14:43:22.191Z</updated>
+    <updated>2020-03-02T14:45:38.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhuhonghui54.github.io"/>
     <link rel="self" href="https://zhuhonghui54.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://zhuhonghui54.github.io/images/avatar.png</logo>
     <icon>https://zhuhonghui54.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Pan</rights>
+    <entry>
+        <title type="html"><![CDATA[##次世代游戏角色展示<毒液>_个人作品展示]]></title>
+        <id>https://zhuhonghui54.github.io/post/ci-shi-dai-you-xi-jiao-se-zhan-shi-lessdu-ye-greater_-ge-ren-zuo-pin-zhan-shi/</id>
+        <link href="https://zhuhonghui54.github.io/post/ci-shi-dai-you-xi-jiao-se-zhan-shi-lessdu-ye-greater_-ge-ren-zuo-pin-zhan-shi/">
+        </link>
+        <updated>2020-03-02T14:13:02.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="根据美国漫威漫画旗下超级英雄毒液为原型的制作模型-采用的次世代游戏技术">根据美国漫威漫画旗下超级英雄毒液为原型的制作模型 采用的次世代游戏技术</h1>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="680" height="383" src="https://sketchfab.com/models/32f8b5c516b14874a4a9b8d6ae4129f9/embed?preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/3d-models/32f8b5c516b14874a4a9b8d6ae4129f9?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">次世代游戏角色展示&lt;毒液&gt;</a>
+    by <a href="https://sketchfab.com/zhuhonghui?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">zhuhonghui</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[## 2020年怎样使用RSS]]></title>
         <id>https://zhuhonghui54.github.io/post/2020-nian-shi-yong-rss-de-ti-yan/</id>
