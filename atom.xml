@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhuhonghui54.github.io</id>
     <title>Pan</title>
-    <updated>2020-03-02T22:40:25.769Z</updated>
+    <updated>2020-03-03T21:39:48.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhuhonghui54.github.io"/>
     <link rel="self" href="https://zhuhonghui54.github.io/atom.xml"/>
@@ -41,7 +41,22 @@
         </link>
         <updated>2020-03-02T13:38:01.000Z</updated>
         <content type="html"><![CDATA[<p>本文试图向您推荐RSS订阅这一信息获取方式，您可以在观看下面的介绍和演示视频后跳至“常见问题”一节。音乐无内容，可静音观看，Very Safe For Work!</p>
-<iframe src="//player.bilibili.com/player.html?aid=38629650&cid=70525810&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<p>.aspect-ratio {<br>
+position: relative;<br>
+width: 100%;<br>
+height: 0;<br>
+padding-bottom: 75%;<br>
+}</p>
+<p>.aspect-ratio iframe {<br>
+position: absolute;<br>
+width: 100%;<br>
+height: 100%;<br>
+left: 0;<br>
+top: 0;<br>
+}</p>
+<div class="aspect-ratio">
+        <iframe src="//player.bilibili.com/player.html?aid=38629650&cid=70525810&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
 <p>其他观看链接：<a href="https://www.bilibili.com/video/av38629650/">BiliBli</a></p>
 <h3 id="订阅行为的过去和现在"><strong>订阅行为的过去和现在</strong></h3>
 <p>粗看来，信息流动的参与主体可以分为信息提供者和信息消费者。</p>
@@ -230,7 +245,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#产品动画👨‍🚀 _杜蕾斯]]></title>
+        <title type="html"><![CDATA[产品动画👨‍🚀 _杜蕾斯]]></title>
         <id>https://zhuhonghui54.github.io/post/chan-pin-dong-hua-_-du-lei-si/</id>
         <link href="https://zhuhonghui54.github.io/post/chan-pin-dong-hua-_-du-lei-si/">
         </link>

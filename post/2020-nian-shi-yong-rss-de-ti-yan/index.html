@@ -160,7 +160,22 @@ window.onload=getCSS();
                   
 			<div class="wow slideInLeft entry-summary song">
 				<p>本文试图向您推荐RSS订阅这一信息获取方式，您可以在观看下面的介绍和演示视频后跳至“常见问题”一节。音乐无内容，可静音观看，Very Safe For Work!</p>
-<iframe src="//player.bilibili.com/player.html?aid=38629650&cid=70525810&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<p>.aspect-ratio {<br>
+position: relative;<br>
+width: 100%;<br>
+height: 0;<br>
+padding-bottom: 75%;<br>
+}</p>
+<p>.aspect-ratio iframe {<br>
+position: absolute;<br>
+width: 100%;<br>
+height: 100%;<br>
+left: 0;<br>
+top: 0;<br>
+}</p>
+<div class="aspect-ratio">
+        <iframe src="//player.bilibili.com/player.html?aid=38629650&cid=70525810&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
 <p>其他观看链接：<a href="https://www.bilibili.com/video/av38629650/">BiliBli</a></p>
 <h3 id="订阅行为的过去和现在"><strong>订阅行为的过去和现在</strong></h3>
 <p>粗看来，信息流动的参与主体可以分为信息提供者和信息消费者。</p>
@@ -368,7 +383,7 @@ window.onload=getCSS();
 
 			<div class="container">
 	
-				<div class="copyright">Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+				<div class="copyright"><img src="https://ghchart.rshah.org/github-sspairo" />
 </div>
 <script type="text/javascript" src="https://www.dashangcloud.com/static/ds-2.0.js">
 </script><br>Theme:   <a href="https://github.com/alterfang/gridea-theme-pan" target="_blank" title="Pan"><span>Pan</span></a>. Powered by <a href="https://gridea.dev/" target="_blank" title="Gridea"><span>Gridea</span></a></div>		
