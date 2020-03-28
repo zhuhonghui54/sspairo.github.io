@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhuhonghui54.github.io</id>
     <title>Pan</title>
-    <updated>2020-03-11T08:43:27.480Z</updated>
+    <updated>2020-03-28T11:53:04.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhuhonghui54.github.io"/>
     <link rel="self" href="https://zhuhonghui54.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://zhuhonghui54.github.io/images/avatar.png</logo>
     <icon>https://zhuhonghui54.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Pan</rights>
+    <entry>
+        <title type="html"><![CDATA[##三维动画作品《HANNIBAL》]]></title>
+        <id>https://zhuhonghui54.github.io/post/ge-ren-san-wei-dong-hua-zuo-pin-lesslesshannibalgreatergreater/</id>
+        <link href="https://zhuhonghui54.github.io/post/ge-ren-san-wei-dong-hua-zuo-pin-lesslesshannibalgreatergreater/">
+        </link>
+        <updated>2020-03-28T11:49:08.000Z</updated>
+        <content type="html"><![CDATA[<p>灵感来源于影视作品《汉尼拔》，在加以创作。</p>
+<script src='//player.polyv.net/script/polyvplayer.min.js'></script>
+<div id='plv_34a9ebbd8c4bab23da8b24b720f9de32_3'></div>
+<script>
+var player = polyvObject('#plv_34a9ebbd8c4bab23da8b24b720f9de32_3').videoPlayer({
+    'width':'600',
+  'height':'338',
+    'vid' : '34a9ebbd8c4bab23da8b24b720f9de32_3' ,
+ 'forceH5':true 
+});
+</script>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[##模型展示<毒液>]]></title>
         <id>https://zhuhonghui54.github.io/post/ci-shi-dai-you-xi-jiao-se-zhan-shi-lessdu-ye-greater_-ge-ren-zuo-pin-zhan-shi/</id>
