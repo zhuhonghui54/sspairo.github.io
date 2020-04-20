@@ -17,15 +17,19 @@ function getCSS()
         datetoday.setTime(timenow);
         thehour = datetoday.getHours();
 
+        if (thehour<24)
+
             display = "https://zhuhonghui54.github.io/media/css/night.css";
 
-       else if (thehour>0：00)
+       else if (thehour>0)
 
             display = "https://zhuhonghui54.github.io/media/css/night.css";   
-      
+
+        else if (thehour>24)
+           
             display = "https://zhuhonghui54.github.io/media/css/day.css";
 
-        else if (thehour<0：00)
+        else if (thehour<0)
 
             display = "https://zhuhonghui54.github.io/media/css/day.css";
       
@@ -189,7 +193,7 @@ var player = polyvObject('#plv_34a9ebbd8c4bab23da8b24b720f9de32_3').videoPlayer(
 	<div class="author-description"><div class="author-title"><div class="author-link" rel="author">Pan</div></div>
 
 
-	<p class="author-bio">认真对待每一个项目，微笑面对每一位甲方:-)</p></div></div>
+	<p class="author-bio">总是写到一半的博客🐖 :-)</p></div></div>
 	
 		</div>
 		
