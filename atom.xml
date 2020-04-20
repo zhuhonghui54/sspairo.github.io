@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhuhonghui54.github.io</id>
     <title>Pan</title>
-    <updated>2020-04-20T22:09:25.856Z</updated>
+    <updated>2020-04-20T22:10:03.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhuhonghui54.github.io"/>
     <link rel="self" href="https://zhuhonghui54.github.io/atom.xml"/>
@@ -43,5 +43,25 @@ var player = polyvObject('#plv_34a9ebbd8c4bab23da8b24b720f9de32_3').videoPlayer(
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
 </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[产品动画👨‍🚀 _杜蕾斯]]></title>
+        <id>https://zhuhonghui54.github.io/post/chan-pin-dong-hua-_-du-lei-si/</id>
+        <link href="https://zhuhonghui54.github.io/post/chan-pin-dong-hua-_-du-lei-si/">
+        </link>
+        <updated>2020-02-25T09:33:54.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>制作于大学时，大学生广告大赛的参赛作品，三等奖
+&lt;我负责角色建模以及场景🙆‍♂&gt;
+</code></pre>
+<script src='//player.polyv.net/script/polyvplayer.min.js'></script>
+<div id='plv_34a9ebbd8c2f0ac9faa3e013a25e97f2_3'></div>
+<script>
+var player = polyvObject('#plv_34a9ebbd8c2f0ac9faa3e013a25e97f2_3').videoPlayer({
+    'width':'680',
+  'height':'383',
+    'vid' : '34a9ebbd8c2f0ac9faa3e013a25e97f2_3' ,
+ 'forceH5':true 
+});
+</script>]]></content>
     </entry>
 </feed>
