@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhuhonghui54.github.io</id>
     <title>Pan</title>
-    <updated>2020-04-20T22:10:03.133Z</updated>
+    <updated>2020-04-24T00:12:11.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhuhonghui54.github.io"/>
     <link rel="self" href="https://zhuhonghui54.github.io/atom.xml"/>
@@ -10,58 +10,4 @@
     <logo>https://zhuhonghui54.github.io/images/avatar.png</logo>
     <icon>https://zhuhonghui54.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Pan</rights>
-    <entry>
-        <title type="html"><![CDATA[##三维动画作品《HANNIBAL》]]></title>
-        <id>https://zhuhonghui54.github.io/post/ge-ren-san-wei-dong-hua-zuo-pin-lesslesshannibalgreatergreater/</id>
-        <link href="https://zhuhonghui54.github.io/post/ge-ren-san-wei-dong-hua-zuo-pin-lesslesshannibalgreatergreater/">
-        </link>
-        <updated>2020-03-28T11:49:08.000Z</updated>
-        <content type="html"><![CDATA[<p>灵感来源于影视作品《汉尼拔》，在加以创作。</p>
-<script src='//player.polyv.net/script/polyvplayer.min.js'></script>
-<div id='plv_34a9ebbd8c4bab23da8b24b720f9de32_3'></div>
-<script>
-var player = polyvObject('#plv_34a9ebbd8c4bab23da8b24b720f9de32_3').videoPlayer({
-    'width':'600',
-  'height':'338',
-    'vid' : '34a9ebbd8c4bab23da8b24b720f9de32_3' ,
- 'forceH5':true 
-});
-</script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[##模型展示<毒液>]]></title>
-        <id>https://zhuhonghui54.github.io/post/ci-shi-dai-you-xi-jiao-se-zhan-shi-lessdu-ye-greater_-ge-ren-zuo-pin-zhan-shi/</id>
-        <link href="https://zhuhonghui54.github.io/post/ci-shi-dai-you-xi-jiao-se-zhan-shi-lessdu-ye-greater_-ge-ren-zuo-pin-zhan-shi/">
-        </link>
-        <updated>2020-03-02T14:13:02.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="根据美国漫威漫画旗下超级英雄毒液为原型的制作模型-采用的次世代游戏技术">根据美国漫威漫画旗下超级英雄毒液为原型的制作模型 采用的次世代游戏技术</h1>
-<div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="680" height="383" src="https://sketchfab.com/models/32f8b5c516b14874a4a9b8d6ae4129f9/embed?preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/3d-models/32f8b5c516b14874a4a9b8d6ae4129f9?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">次世代游戏角色展示&lt;毒液&gt;</a>
-    by <a href="https://sketchfab.com/zhuhonghui?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">zhuhonghui</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产品动画👨‍🚀 _杜蕾斯]]></title>
-        <id>https://zhuhonghui54.github.io/post/chan-pin-dong-hua-_-du-lei-si/</id>
-        <link href="https://zhuhonghui54.github.io/post/chan-pin-dong-hua-_-du-lei-si/">
-        </link>
-        <updated>2020-02-25T09:33:54.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>制作于大学时，大学生广告大赛的参赛作品，三等奖
-&lt;我负责角色建模以及场景🙆‍♂&gt;
-</code></pre>
-<script src='//player.polyv.net/script/polyvplayer.min.js'></script>
-<div id='plv_34a9ebbd8c2f0ac9faa3e013a25e97f2_3'></div>
-<script>
-var player = polyvObject('#plv_34a9ebbd8c2f0ac9faa3e013a25e97f2_3').videoPlayer({
-    'width':'680',
-  'height':'383',
-    'vid' : '34a9ebbd8c2f0ac9faa3e013a25e97f2_3' ,
- 'forceH5':true 
-});
-</script>]]></content>
-    </entry>
 </feed>
